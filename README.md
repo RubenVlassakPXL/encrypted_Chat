@@ -26,7 +26,7 @@ The proof of concept application consists of four java classes:
 
 1. Server.java
 2. Client.java
-3. message.java
+3. Message.java
 4. RSA.java
 
 
@@ -49,7 +49,7 @@ IMP:
 
 Files required on Client machine(in same directory):
 1. Client.java
-2. message.java
+2. Message.java
 3. public.key
 4. private.key
 
@@ -58,7 +58,7 @@ Usage : $ java Client [server IP]
 
 Files required on Client machine(in same directory):
 1. Server.java
-2. message.java
+2. Message.java
 3. public.key
 4. private.key
 
